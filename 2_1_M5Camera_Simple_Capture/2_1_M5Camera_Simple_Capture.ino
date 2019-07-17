@@ -8,6 +8,7 @@
 const char* ssid = "your_ssid";
 const char* password = "your_passwd";
 
+//"camera_pins.h"は、スケッチ例 ESP32>Camera>CameraWebServer から取得
 #define CAMERA_MODEL_M5STACK_WIDE
 #include "camera_pins.h"
 
@@ -23,6 +24,7 @@ void loop() {
   capture_camera();                     //M5Cameraの撮影
   delay(1000);
 }
+
 void setup_camera() {		         //M5Cameraの設定
   camera_config_t config;
 
