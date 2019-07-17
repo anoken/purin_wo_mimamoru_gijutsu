@@ -24,12 +24,19 @@ aNo研は、ご家庭の平和へ忍び寄る危機を円満に解決する「�
 第1 章M5Camera の紹介 
 
  1.1 M5Camera とは？ 
+ 
  1.2 ESP32-Camera とは？ 
+ 
  1.3 M5Stack とは？
+ 
  1.4 M5Camera の開発環境 
+ 
  1.5 Arduino IDE のインストール 
+ 
  1.6 USB/UART シリアル変換ドライバのインストール
+ 
  1.7 arduino-esp32 のインストール
+ 
  1.8 Camera Web Server Example 
  
  aNo 研とは？
@@ -37,37 +44,62 @@ aNo研は、ご家庭の平和へ忍び寄る危機を円満に解決する「�
 第2 章プリンを見守る技術
 
 2.1 プリン・ア・ラートとは？ 
+
 2.2 M5Camera で撮影する 
+
 2.3 写真をフラッシュメモリに保存する 
+
 2.4 写真をFTP サーバに保存する 
+
 2.5 HTTP サーバに写真を投稿する
+
 2.6 RasberryPI で画像を受け取る
+
 2.7 LINE Notify に写真を投稿する
+
 2.7.1 LINE Notify の設定をする 
+
 2.7.2 LINE Notify へ写真を送る 
+
 2.8 ディープラーニングでお顔を検出する
+
 2.8.1 esp-who の準備
+
 2.8.2 esp-who の実行 
 
 第3 章M5StickC の紹介 
 
 3.1 M5StickC とは？ 
+
 3.2 M5SickC の開発環境 
 
 第4 章グラスをスマートに運ぶ技術 
 
 4.1 グラス・ポーターとは？ 
+
 4.2 M5StickC でDC モータを回す
+
 4.3 M5StickC でスピーカから音を出す
+
 4.3.1 SPIFFS アップローダツールのインストール
+
 4.3.2 SPIFFS で音声ファイルを再生する.
+
 4.4 LINE Things を準備する 
+
 4.4.1 Messaging API の作成 
+
 4.4.2 GitHub でWeb ページを公開する
+
 4.4.3 LIFF アプリの作成 
+
 4.4.4 トライアルプロダクト情報を入手する
+
 4.4.5 LINE Things を動かしてみる
+
 4.5 Glass Porter をLINE Things で制御する
+
 4.5.1 LIFF アプリの実装
+
 4.5.2 M5StickC の実装 
 
