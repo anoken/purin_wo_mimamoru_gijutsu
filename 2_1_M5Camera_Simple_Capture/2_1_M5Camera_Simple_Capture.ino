@@ -59,7 +59,6 @@ void setup_camera() {		         //M5Cameraの設定
     return;
   }
   sensor_t * s = esp_camera_sensor_get();
-
 }
 
 
