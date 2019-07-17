@@ -5,8 +5,8 @@
 
 ## タイトル  
 「プリンを見守る技術 --M5Camera/M5StickCで始めるセキュアな世界--」のサポートページです。
-本書は、技術書同人誌博覧会
-https://gishohaku.dev/circles/GZbC0MSg0OKK9S4FcplO/
+本書は、技術書同人誌博覧会<https://gishohaku.dev/circles/GZbC0MSg0OKK9S4FcplO/>、趣味TECH祭2019（夏）<https://www.shumi-tech.online/entry/2019/07/16/趣味TECH祭2019%EF%BC%88夏%EF%BC%89開催のお知らせ>で頒布します。
+
 
 ## 紹介
 せっかく楽しみに取っておいたプリンが食べられてしまった！そんな経験はありませんか？
