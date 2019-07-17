@@ -7,8 +7,8 @@
 「プリンを見守る技術 --M5Camera/M5StickCで始めるセキュアな世界--」のサポートページです。
 
 本書は、
-技術書同人誌博覧会<https://gishohaku.dev/circles/GZbC0MSg0OKK9S4FcplO/>
-趣味TECH祭2019（夏）<https://www.shumi-tech.online/entry/2019/07/16/趣味TECH祭2019%EF%BC%88夏%EF%BC%89開催のお知らせ>
+技術書同人誌博覧会<https://gishohaku.dev/circles/GZbC0MSg0OKK9S4FcplO/><br> 
+趣味TECH祭2019（夏）<https://www.shumi-tech.online/entry/2019/07/16/趣味TECH祭2019%EF%BC%88夏%EF%BC%89開催のお知らせ><br> 
 で頒布予定です。
 
 
