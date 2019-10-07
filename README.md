@@ -5,7 +5,11 @@
 
 ## タイトル  
 「プリンを見守る技術 --M5Camera/M5StickCで始めるセキュアな世界--」のサポートページです。
-< https://anoken.booth.pm/items/1478830 >
+
+ https://anoken.booth.pm/items/1478830
+ 
+ https://ec.toranoana.shop/tora/ec/item/040030776779 
+
 
 ## 紹介
 せっかく楽しみに取っておいたプリンが食べられてしまった！そんな経験はありませんか？
