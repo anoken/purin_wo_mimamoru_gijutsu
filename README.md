@@ -10,7 +10,7 @@
  https://anoken.booth.pm/items/1478830
 
  とらのあなで頒布中
- https://ec.toranoana.shop/tora/ec/item/040030776779 
+ https://ec.toranoana.shop/tora/ec/item/040030778531/
 
 
 ## 紹介
@@ -82,32 +82,18 @@ aNo研は、ご家庭の平和へ忍び寄る危機を円満に解決する「�
 
 <br> 
 第4 章グラスをスマートに運ぶ技術 
-
 4.1 グラス・ポーターとは？ 
-
 4.2 M5StickC でDC モータを回す
-
 4.3 M5StickC でスピーカから音を出す
-
 4.3.1 SPIFFS アップローダツールのインストール
-
 4.3.2 SPIFFS で音声ファイルを再生する.
-
 4.4 LINE Things を準備する 
-
 4.4.1 Messaging API の作成 
-
 4.4.2 GitHub でWeb ページを公開する
-
 4.4.3 LIFF アプリの作成 
-
 4.4.4 トライアルプロダクト情報を入手する
-
 4.4.5 LINE Things を動かしてみる<br> 
-
 4.5 Glass Porter をLINE Things で制御する<br> 
-
 4.5.1 LIFF アプリの実装<br> 
-
 4.5.2 M5StickC の実装 <br> 
 
